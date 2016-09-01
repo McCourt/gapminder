@@ -15,7 +15,7 @@ bplist00?_WebMainResource?
 </style></head><body><pre style="word-wrap: break-word; white-space: pre-wrap;">
 ---
 title: "Gapminder Analysis"
-author: "Colin Rundel"
+author: "b"lablba
 date: "8/30/2016"
 output: html_document
 ---

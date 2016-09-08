@@ -45,7 +45,7 @@ gap = read.csv("https://bit.ly/gap_data_upd")
 Visualize the relationship between life expectancy and population in 1952 using a scatter plot.
 
 ```{r ex1}
-gap01 = filter(gap, year == 2001)
+gap01 = filter(gap, year == 1952)
 ggplot(gap01, aes(x = lifeExp, y = pop)) + geom_point()
 ```
 
